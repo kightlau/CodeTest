@@ -6,7 +6,7 @@ demoProject: Front-end (React Native Expo)
 
 ## Installation
 
-Install Node.js [pip](https://nodejs.org/en/) into the System.
+Install Node.js (https://nodejs.org/en/) into the System.
 
 Next, go to the directory where the package.json is (Both ClinicApp and demoProject)
 
